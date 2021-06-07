@@ -6,3 +6,4 @@ oh yeah btw this is a prank for someone on their birthday. use it well.
 
 
 Its made in unity, but im not about to put all the files here, so all you get is the assets.
+The releases will have the built game
